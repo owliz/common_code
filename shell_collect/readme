@@ -1,0 +1,12 @@
+- showFileNum.sh
+    - 统计同级目录下的所有文件夹里的所有文件数（包括子文件夹，不统计文件夹数）
+    
+- changeName.sh
+    - 同级目录下的文件夹里的jpg文件改名，改为 0001-xxxx.jpg
+
+- convert_to_frames.sh
+    - ffmpeg 将视频转为视频帧
+
+- movefile.sh
+    - 非通用，移动并删除原文件
+
